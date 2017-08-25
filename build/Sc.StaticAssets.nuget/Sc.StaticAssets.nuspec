@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+		<id>Sc.StaticAssets</id>
+		<version>$version$</version>
+		<authors>Søren Engel</authors>
+		<owners>Søren Engel</owners>
+		<licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+		<projectUrl>https://soen.ghost.io/sitecore-mvc-using-static-assets-generated-by-gulp/</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>Enables using static assets created by your favorite frontend tooling within your Sitecore solutions</description>
+		<copyright>Copyright 2017</copyright>
+		<tags>sitecore assets</tags>
+		<dependencies>
+			<dependency id="Sc.StaticAssets" version="$version$" />
+		</dependencies>
+	</metadata>
+</package>
